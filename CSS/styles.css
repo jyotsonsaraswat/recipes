@@ -1,0 +1,23 @@
+@font-face {
+    font-family: "Gabriel Weiss' Friends Font";
+    src: url("../fonts/friends/GABRWFFR.TTF");
+}
+* {
+    background-color: #751aff;
+    color: #ffffff;
+    font-family: "Times New Roman", sans-serif;
+}
+div {
+    text-align: center;
+}
+#image {
+    height: auto;
+    width: 310px;
+}
+img {
+    height: auto;
+    width: 500px;
+}
+.friends {
+    font-family: "Gabriel Weiss' Friends Font";
+}
