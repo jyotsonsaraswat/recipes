@@ -1,2 +1,3 @@
 # recipes
-indian food recipes i would have suggested our beloved mr. joey tribbiani to try.
+indian food recipes joey tried at our place
+***recipes and photos are not mine, rightful owners of recipes are mentioned below respective pages.***
